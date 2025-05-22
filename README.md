@@ -9,7 +9,20 @@ This is a simple Bookstore web application built with Laravel 12 (PHP 8.2+). It 
 - View book details
 - Delete books
 - Responsive UI using Bootstrap 5
+---
 
+## 📺 Demo Video
+
+<div align="center">
+  
+[![Book Store Laravel Demo](https://github.com/imrul-kayes-dipto/bookstoredipto/blob/master/resources/Dashboard.png)](https://youtu.be/9jz8aMoRDWw?si=OSyH0_clMTxyGudq)
+
+</div>
+
+> _Click the image above to watch the demo on YouTube!_
+
+
+---
 ## Project Structure
 - **app/Models/Book.php**: Eloquent model for books
 - **app/Http/Controllers/BookController.php**: Controller handling CRUD operations
